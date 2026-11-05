@@ -1,0 +1,5 @@
+# Nmap 7.95 scan initiated Thu Nov  5 15:19:04 2026 as: nmap -sn -oN /home/user/IoT-Honeypot-Lab/scans/01-host-discovery.txt 192.168.62.128
+Nmap scan report for 192.168.62.128
+Host is up (0.00065s latency).
+MAC Address: 00:0C:29:1C:F9:75 (VMware)
+# Nmap done at Thu Nov  5 15:19:11 2026 -- 1 IP address (1 host up) scanned in 6.58 seconds

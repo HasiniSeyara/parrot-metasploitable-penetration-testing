@@ -1,0 +1,27 @@
+# Packet captures
+*.pcap
+*.pcapng
+
+# Credentials and secrets
+.env
+*.key
+*.pem
+credentials.txt
+passwords.txt
+
+# Local logs
+*.log
+evidence/logs/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env/
+
+# Temporary files
+*.tmp
+*.bak
+.DS_Store
+
+
